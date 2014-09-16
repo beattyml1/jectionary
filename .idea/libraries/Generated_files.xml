@@ -2,12 +2,21 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/js/jectionary/jectionary.controls.implemented.js" />
+        <item url="file://$PROJECT_DIR$/js/jectionary/jectionary.controls.inputs.js.js" />
+        <item url="file://$PROJECT_DIR$/js/jectionary/jectionary.ux.js" />
         <item url="file://$PROJECT_DIR$/js/jectionary/jectionary.core.js" />
-        <item url="file://$PROJECT_DIR$/js/jectionary/jectionary.ajax.js.js" />
+        <item url="file://$PROJECT_DIR$/js/jectionary/jectionary.controls.js" />
+        <item url="file://$PROJECT_DIR$/js/jectionary/jectionary.ajax.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/js/jectionary/jectionary.controls.implemented.js" />
+      <root url="file://$PROJECT_DIR$/js/jectionary/jectionary.controls.implemented.js" />
+      <root url="file://$PROJECT_DIR$/js/jectionary/jectionary.controls.inputs.js.js" />
+      <root url="file://$PROJECT_DIR$/js/jectionary/jectionary.ux.js" />
       <root url="file://$PROJECT_DIR$/js/jectionary/jectionary.core.js" />
+      <root url="file://$PROJECT_DIR$/js/jectionary/jectionary.controls.js" />
       <root url="file://$PROJECT_DIR$/js/jectionary/jectionary.ajax.js" />
     </CLASSES>
     <SOURCES />

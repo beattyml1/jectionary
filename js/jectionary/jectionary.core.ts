@@ -12,7 +12,7 @@ module Jectionary.Events {
     }
 
     export function listen(eventName: string,
-                           processor: (name: string, context: any, sender: any, data: any) => any) {
+                           processor: (context: any, sender: any, data: any) => any) {
 
     }
 
